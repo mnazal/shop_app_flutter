@@ -1,16 +1,29 @@
-# shop_app_flutter
+<br/>
+<p align="center">
+  <h3 align="center">Basic Shop App using Flutter</h3>
 
-A new Flutter project.
+  <p align="center">
+    <a href="https://github.com/mnazal/Basic Shop App using Flutter"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/mnazal/Basic Shop App using Flutter">View Demo</a>
+    .
+  </p>
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## About The Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screen Shot](screenshots/Screenshot_1704111720.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+A Basic flutter Shop App with responsive UI which lists product from a list, have options to add to cart and remove from cart which works on Android, Web and Ios.
+
+## Usage
+
+screenshots/Screenshot_1704111734.png
+screenshots/Screenshot_1704111747.png
+
+## Web
+![image](https://github.com/mnazal/shop_app_flutter/assets/70329337/2778443a-5942-4d80-ac89-fbae7371b11f)
