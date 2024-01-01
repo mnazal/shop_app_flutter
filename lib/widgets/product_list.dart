@@ -94,7 +94,7 @@ class _ProductListState extends State<ProductList> {
                 }),
           ),
           Expanded(
-            child: (size.width > 650)
+            child: (size.width > 1080)
                 ? GridView.builder(
                     gridDelegate:
                         const SliverGridDelegateWithFixedCrossAxisCount(
