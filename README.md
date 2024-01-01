@@ -20,10 +20,10 @@
 
 A Basic flutter Shop App with responsive UI which lists product from a list, have options to add to cart and remove from cart which works on Android, Web and Ios.
 
-## Usage
+## UI in Android
 
-screenshots/Screenshot_1704111734.png
-screenshots/Screenshot_1704111747.png
+![Screen Shot](screenshots/Screenshot_1704111734.png)
+![Screen Shot](screenshots/Screenshot_1704111747.png)
 
 ## Web
 ![image](https://github.com/mnazal/shop_app_flutter/assets/70329337/2778443a-5942-4d80-ac89-fbae7371b11f)
